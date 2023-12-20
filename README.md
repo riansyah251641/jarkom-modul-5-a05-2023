@@ -697,5 +697,6 @@ dilakukan test dengan `ping 192.171.4.2 -c 25` maka ping hanya akan keluar seban
 # Soal 10
 
 Belumm
-#   j a r k o m - m o d u l - 5 - a 0 5 - 2 0 2 3  
+#   j a r k o m - m o d u l - 5 - a 0 5 - 2 0 2 3 
+ 
  
